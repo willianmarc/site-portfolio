@@ -31,14 +31,14 @@ npm start
 
 ````
 
-**Ecemplo de uso do script:**
+**Exemplo de uso do script:**
 ```js
 function showName(nome){
     return'Bom dia '
 }
 ```
 
-**Uso do componetente HTML**
+**Uso do componente HTML**
 
 ```html
 <h1>
