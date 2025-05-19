@@ -34,7 +34,7 @@ npm start
 **Exemplo de uso do script:**
 ```js
 function showName(nome){
-    return'Bom dia '
+    return'Bom dia'+name 
 }
 ```
 
