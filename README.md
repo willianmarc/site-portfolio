@@ -24,3 +24,34 @@ Nesse curso você vai dominar todo **git** e **github** _do zero ao profissional
 >Este é um blockquote , usado para destaca uma area.
 >
 >Segunda area destacada
+
+**Comando para rodar o projeto**
+````
+npm start 
+
+````
+
+**Ecemplo de uso do script:**
+```js
+function showName(nome){
+    return'Bom dia '
+}
+```
+
+**Uso do componetente HTML**
+
+```html
+<h1>
+    Titulo do projeto
+    <span>Curso Git</span>
+</h1>
+```
+
+**Css padrao do projeto**
+
+``` css
+.titulo{
+   background-color :#FFF;
+   color: #FF0000
+}
+```
