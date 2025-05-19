@@ -7,6 +7,11 @@ Nesse curso você vai dominar todo **git** e **github** _do zero ao profissional
  * Aprendendo com branches.
  * Git avançado .
  * Usando github de forma profissional.
+
+ 1. Começando com git.
+ 2. Aprendendo com branches.
+ 3. Git avançado .
+ 4. Usando github de forma profissional.
  
 
 ### Rede social:
